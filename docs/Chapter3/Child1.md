@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Child1
-nav_order: 5
+nav_order: 1
 parent: Chapter3
 ---  
 # Child1  
