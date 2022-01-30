@@ -2,5 +2,8 @@
 layout: default
 title: Child2
 nav_order: 2
-has_childern: true
----
+parent: Chapter3  
+---  
+
+# Child2  
+No idea what I am doing still. 
