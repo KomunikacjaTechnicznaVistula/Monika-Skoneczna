@@ -5,7 +5,6 @@ nav_order: 2
 description: "Requirements"
 has_children: true
 parent: Jekyll
-permalink: /
 ---
 
 <!-- Example of another paragraph -->
