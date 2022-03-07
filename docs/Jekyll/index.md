@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jekyll
-nav_order: 1
+nav_order: 2
 description: "Jekyll"
 has_children: true
 ---
